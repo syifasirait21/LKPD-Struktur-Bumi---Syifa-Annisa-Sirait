@@ -1,0 +1,6 @@
+{
+  "name": "Struktur Bumi : PBL",
+  "description": "LMS interaktif dengan model PBL untuk materi Struktur Bumi bagi siswa SMP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
